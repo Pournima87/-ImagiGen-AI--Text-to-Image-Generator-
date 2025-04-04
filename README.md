@@ -1,9 +1,9 @@
-# ImagiGen-AI--Text-to-Image-Generator-
-ImagiGen AI is a web-based app that generates images from text prompts using FalAI’s API. Built with CSS, TypeScript &amp; JavaScript, it features a simple UI, real-time generation, and image download support. A creative tool blending frontend tech with AI.
+
 # 🎨 ImagiGen AI – Imagination Meets AI
 
 **ImagiGen AI** is a sleek, web-based Text-to-Image Generator powered by **OpenAI's API**.  
-Designed with **HTML, CSS, and JavaScript**, it allows users to transform text prompts into stunning AI-generated images — instantly and intuitively.
+Designed with **TypeScript, CSS, and JavaScript**, it allows users to **transform text prompts into stunning AI-generated images** — instantly and intuitively.
+it features a **simple UI, real-time generation, and image download support**. A creative tool **blending frontend tech with AI**.
 
 ---
 
