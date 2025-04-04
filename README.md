@@ -3,6 +3,7 @@
 
 **ImagiGen AI** is a sleek, web-based Text-to-Image Generator powered by **OpenAI's API**.  
 Designed with **TypeScript, CSS, and JavaScript**, it allows users to **transform text prompts into stunning AI-generated images** — instantly and intuitively.
+
 it features a **simple UI, real-time generation, and image download support**. A creative tool **blending frontend tech with AI**.
 
 ---
@@ -19,10 +20,10 @@ it features a **simple UI, real-time generation, and image download support**. A
 
 ## 🌐 Tech Stack
 
-- **HTML5** – Semantic markup and structure  
+
 - **CSS3** – Modern layout and styling  
 - **JavaScript** – API handling, DOM manipulation  
-- **OpenAI API** – AI-powered image generation  
+- **OpenAI API (FAL AI)** – AI-powered image generation  
 
 ---
 
@@ -41,14 +42,11 @@ it features a **simple UI, real-time generation, and image download support**. A
 ---
 
 ⚠️ API Key Note
-This project uses OpenAI's image generation API.
-You must insert your own OpenAI API key in the script.js file:
+This project uses OpenAI's that is FAL AI image generation API.
+You must insert your own OpenAI API key in the .enve.local file:
+https://fal.ai/
 
-javascript
-Copy
-Edit
-const apiKey = "your-api-key-here";
-Get your API key at platform.openai.com
+
 
 ✨ Demo
 [(Optional: Add live demo link if hosted — GitHub Pages, Netlify, or Vercel)](https://github.com/user-attachments/assets/bb18d944-8ec6-4e2e-b829-d17373449d5f)
