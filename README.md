@@ -3,14 +3,13 @@
 
 **ImagiGen AI** is a sleek, web-based Text-to-Image Generator powered by **OpenAI's API**.  
 Designed with **TypeScript, CSS, and JavaScript**, it allows users to **transform text prompts into stunning AI-generated images** — instantly and intuitively.
-
-it features a **simple UI, real-time generation, and image download support**. A creative tool **blending frontend tech with AI**.
+It features a **simple UI, real-time generation, and image download support**. A creative tool **blending frontend tech with AI**.
 
 ---
 
 ## 🚀 Features
 
-- 🧠 **Text-to-Image Generation** via OpenAI's API
+- 🧠 **Text-to-Image Generation** via OpenAI's (FAL AI) API
 - ⚡ Real-time prompt input and image rendering
 - 💾 One-click **image download** functionality
 - 🖥️ Minimal and responsive UI built with pure frontend technologies
@@ -41,38 +40,33 @@ it features a **simple UI, real-time generation, and image download support**. A
 
 ---
 
-⚠️ API Key Note
+**⚠️ API Key Note**
+
 This project uses OpenAI's that is FAL AI image generation API.
 You must insert your own OpenAI API key in the .enve.local file:
 https://fal.ai/
 
 
 
-✨ Demo
-[(Optional: Add live demo link if hosted — GitHub Pages, Netlify, or Vercel)](https://github.com/user-attachments/assets/bb18d944-8ec6-4e2e-b829-d17373449d5f)
+**✨ Demo**
+
+https://github.com/user-attachments/assets/829f02d6-92df-4f17-a00d-2de66b1699f7
 
 
-💡 Future Improvements
+**💡 Future Improvements**
+
 Add prompt history & reuse feature
-
 Enhance image resolution & generation feedback
-
 Add support for multiple image styles
 
-📧 Contact
+**📧 Contact**
+
 For feedback, collaboration, or questions:
-📬 [YourEmail@example.com]
-🔗 LinkedIn | GitHub
+📬 morepournima2004@gmail.com
+🔗 https://www.linkedin.com/in/pournimamore/
 
-📜 License
-This project is licensed under the MIT License.
 
-vbnet
-Copy
-Edit
-
-Let me know your **GitHub username** and I’ll auto-fill the links for cloning and contact if you'd like. Want help deploying **ImagiGen AI** live next? I can walk you through hosting on **Netlify** or **GitHub Pages** too!
-
+Let me know your **GitHub username** and I’ll auto-fill the links for cloning and contact if you'd like. 
 
 
 
